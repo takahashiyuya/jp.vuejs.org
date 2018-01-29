@@ -180,7 +180,7 @@ computed: {
 // ...
 ```
 
-`vm.fullname = 'John Doe'` を呼ぶと、setter 関数が呼び出され、`vm.firstName` と `vm.lastName` が適切に更新されます。
+`vm.fullName = 'John Doe'` を呼ぶと、setter 関数が呼び出され、`vm.firstName` と `vm.lastName` が適切に更新されます。
 
 ## ウォッチャ
 
